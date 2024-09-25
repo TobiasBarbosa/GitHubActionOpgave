@@ -13,6 +13,6 @@ public class WelcomeController {
         return "welcome";
     }
 
-    //bare lige lidt note
+    //bare lige lidt notee
 
 }
